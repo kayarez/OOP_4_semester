@@ -1,0 +1,130 @@
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.exe.config
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.exe
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.pdb
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\MainWindow.g.cs
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\Search.g.cs
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\App.g.cs
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\MainWindow.baml
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\Search.baml
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.g.resources
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.exe
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.pdb
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.Resource1.resources
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\App.baml
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\Lang.ru-RU.baml
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\Lang.baml
+B:\вторая пацейка\сишарп\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.exe.config
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.exe
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.pdb
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\MainWindow.g.cs
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\Search.g.cs
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\App.g.cs
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\App.baml
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\Lang.ru-RU.baml
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\Lang.baml
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\MainWindow.baml
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\Search.baml
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.g.resources
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.Resource1.resources
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.exe
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.pdb
+B:\вторая пацейка\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\Theme1.baml
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Search.g.cs
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\App.g.cs
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\App.baml
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\Lang.ru-RU.baml
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\Lang.baml
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\MainWindow.baml
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\Theme1.baml
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Search.baml
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.Resource1.resources
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Dima\.NET\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.pdb
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.exe.config
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.exe
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.pdb
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\MainWindow.g.cs
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Search.g.cs
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\App.g.cs
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\App.baml
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\Lang.ru-RU.baml
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\Lang.baml
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\MainWindow.baml
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Search.baml
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.g.resources
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.Resource1.resources
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.exe
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.pdb
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\NightTheme.baml
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\LightTheme.baml
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Window1.g.cs
+B:\вторая пацейка\сишарп\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Window1.baml
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.exe
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Search.g.cs
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Window1.g.cs
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\App.g.cs
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\App.baml
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\Lang.ru-RU.baml
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\Lang.baml
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\MainWindow.baml
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\NightTheme.baml
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Resources\LightTheme.baml
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Search.baml
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\Window1.baml
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.Resource1.resources
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.exe
+D:\4 СЕМЕСТР\ООП\лабы\лаба789v2\labOchka\пробник нормальной разметки\WpfApp1\obj\Debug\WpfApp1.pdb

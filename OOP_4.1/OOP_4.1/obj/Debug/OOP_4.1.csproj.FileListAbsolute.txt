@@ -1,0 +1,9 @@
+D:\4 СЕМЕСТР\ООП\лабы\OOP_4.1\OOP_4.1\obj\Debug\OOP_4.1.csprojAssemblyReference.cache
+D:\4 СЕМЕСТР\ООП\лабы\OOP_4.1\OOP_4.1\obj\Debug\OOP_4.Form2.resources
+D:\4 СЕМЕСТР\ООП\лабы\OOP_4.1\OOP_4.1\obj\Debug\OOP_4._1.Properties.Resources.resources
+D:\4 СЕМЕСТР\ООП\лабы\OOP_4.1\OOP_4.1\obj\Debug\OOP_4.1.csproj.GenerateResource.cache
+D:\4 СЕМЕСТР\ООП\лабы\OOP_4.1\OOP_4.1\bin\Debug\OOP_4.1.exe.config
+D:\4 СЕМЕСТР\ООП\лабы\OOP_4.1\OOP_4.1\bin\Debug\OOP_4.1.exe
+D:\4 СЕМЕСТР\ООП\лабы\OOP_4.1\OOP_4.1\bin\Debug\OOP_4.1.pdb
+D:\4 СЕМЕСТР\ООП\лабы\OOP_4.1\OOP_4.1\obj\Debug\OOP_4.1.exe
+D:\4 СЕМЕСТР\ООП\лабы\OOP_4.1\OOP_4.1\obj\Debug\OOP_4.1.pdb

@@ -1,0 +1,6 @@
+D:\4 СЕМЕСТР\ООП\лабы\OOP_1\OOP_1\bin\Debug\OOP_1.exe.config
+D:\4 СЕМЕСТР\ООП\лабы\OOP_1\OOP_1\bin\Debug\OOP_1.exe
+D:\4 СЕМЕСТР\ООП\лабы\OOP_1\OOP_1\bin\Debug\OOP_1.pdb
+D:\4 СЕМЕСТР\ООП\лабы\OOP_1\OOP_1\obj\Debug\OOP_1.csprojAssemblyReference.cache
+D:\4 СЕМЕСТР\ООП\лабы\OOP_1\OOP_1\obj\Debug\OOP_1.exe
+D:\4 СЕМЕСТР\ООП\лабы\OOP_1\OOP_1\obj\Debug\OOP_1.pdb

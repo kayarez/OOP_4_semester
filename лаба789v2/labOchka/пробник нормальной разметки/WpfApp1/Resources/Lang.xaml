@@ -1,0 +1,21 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WpfApp1.Resources"
+                    xmlns:my="clr-namespace:System;assembly=mscorlib">
+    <my:String x:Key="m_thema">Themes</my:String>
+    <my:String x:Key="m_lang">Lang</my:String>
+    <my:String x:Key="m_search">Search</my:String>
+    <my:String x:Key="m_sort">Sorting</my:String>
+    <my:String x:Key="m_dcreat">DateCreation</my:String>
+    <my:String x:Key="m_check">Done</my:String>
+    <my:String x:Key="m_busin">Business</my:String>
+    <my:String x:Key="m_categ">Categories</my:String>
+    <my:String x:Key="m_dur">Duration</my:String>
+    <my:String x:Key="m_over">OverDue</my:String>
+    <my:String x:Key="m_ddead">DeadLine</my:String>
+    <my:String x:Key="m_defsort">Date Creation Default</my:String>
+    <my:String x:Key="m_searchbusin">Search Business</my:String>
+    <my:String x:Key="m_searchcateg">Search Categories</my:String>
+    <my:String x:Key="m_redo">Redo</my:String>
+    <my:String x:Key="m_undo">Undo</my:String>
+</ResourceDictionary>

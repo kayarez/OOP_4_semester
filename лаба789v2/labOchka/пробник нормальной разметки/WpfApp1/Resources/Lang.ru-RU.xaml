@@ -1,0 +1,23 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:WpfApp1.Resources"
+                   
+                    xmlns:my="clr-namespace:System;assembly=mscorlib">
+    
+    <my:String x:Key="m_thema">Темы</my:String>
+    <my:String x:Key="m_lang">Язык</my:String>
+    <my:String x:Key="m_search">Поиск</my:String>
+    <my:String x:Key="m_sort">Фильтр</my:String>
+    <my:String x:Key="m_dcreat">Дата создания</my:String>
+    <my:String x:Key="m_check">Состояние</my:String>
+    <my:String x:Key="m_busin">Задание</my:String>
+    <my:String x:Key="m_categ">Категория</my:String>
+    <my:String x:Key="m_dur">Длительность</my:String>
+    <my:String x:Key="m_over">Просрочка</my:String>
+    <my:String x:Key="m_ddead">Дедлайн</my:String>
+    <my:String x:Key="m_defsort">Дата создания по умолчанию</my:String>
+    <my:String x:Key="m_searchbusin">Поиск по заданию</my:String>
+    <my:String x:Key="m_searchcateg">Поиск по категории</my:String>
+    <my:String x:Key="m_redo">Повтор</my:String>
+    <my:String x:Key="m_undo">Отмена</my:String>
+</ResourceDictionary>

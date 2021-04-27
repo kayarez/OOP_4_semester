@@ -1,0 +1,46 @@
+F:\лабы\ооп\lab5\bin\Debug\lab5.exe.config
+F:\лабы\ооп\lab5\bin\Debug\lab5.exe
+F:\лабы\ооп\lab5\bin\Debug\lab5.pdb
+F:\лабы\ооп\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+F:\лабы\ооп\lab5\obj\Debug\lab5.Form1.resources
+F:\лабы\ооп\lab5\obj\Debug\lab5.Properties.Resources.resources
+F:\лабы\ооп\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+F:\лабы\ооп\lab5\obj\Debug\lab5.exe
+F:\лабы\ооп\lab5\obj\Debug\lab5.pdb
+F:\лабы\ооп\lab5\bin\Debug\Newtonsoft.Json.dll
+F:\лабы\ооп\lab5\bin\Debug\Newtonsoft.Json.xml
+F:\лабы\ооп\lab5\obj\Debug\lab5.csproj.CopyComplete
+F:\лабы\ооп\lab5\obj\Debug\lab5.Form2.resources
+F:\лабы\ооп\lab5\obj\Debug\lab5.Form3.resources
+F:\лабы\ооп\lab5\bin\Debug\System.ComponentModel.Annotations.dll
+D:\4 СЕМЕСТР\ООП\лабы\lab5\bin\Debug\lab5.exe.config
+D:\4 СЕМЕСТР\ООП\лабы\lab5\bin\Debug\lab5.exe
+D:\4 СЕМЕСТР\ООП\лабы\lab5\bin\Debug\lab5.pdb
+D:\4 СЕМЕСТР\ООП\лабы\lab5\bin\Debug\Newtonsoft.Json.dll
+D:\4 СЕМЕСТР\ООП\лабы\lab5\bin\Debug\System.ComponentModel.Annotations.dll
+D:\4 СЕМЕСТР\ООП\лабы\lab5\bin\Debug\Newtonsoft.Json.xml
+D:\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+D:\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.Form1.resources
+D:\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.Form2.resources
+D:\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.Form3.resources
+D:\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.Properties.Resources.resources
+D:\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+D:\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.csproj.CopyComplete
+D:\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.exe
+D:\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.pdb
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\bin\Debug\lab5.exe.config
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\bin\Debug\lab5.exe
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\bin\Debug\lab5.pdb
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\bin\Debug\Newtonsoft.Json.dll
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\bin\Debug\System.ComponentModel.Annotations.dll
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\bin\Debug\Newtonsoft.Json.xml
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.Form1.resources
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.Form2.resources
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.Form3.resources
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.Properties.Resources.resources
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.csproj.GenerateResource.cache
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.csproj.CopyComplete
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.exe
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\lab5\obj\Debug\lab5.pdb

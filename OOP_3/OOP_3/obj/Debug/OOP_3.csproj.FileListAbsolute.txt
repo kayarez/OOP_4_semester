@@ -1,0 +1,7 @@
+D:\4 СЕМЕСТР\ООП\лабы\OOP_3\OOP_3\bin\Debug\OOP_3.exe.config
+D:\4 СЕМЕСТР\ООП\лабы\OOP_3\OOP_3\bin\Debug\OOP_3.exe
+D:\4 СЕМЕСТР\ООП\лабы\OOP_3\OOP_3\bin\Debug\OOP_3.pdb
+D:\4 СЕМЕСТР\ООП\лабы\OOP_3\OOP_3\obj\Debug\OOP_3.csprojAssemblyReference.cache
+D:\4 СЕМЕСТР\ООП\лабы\OOP_3\OOP_3\obj\Debug\OOP_3.exe
+D:\4 СЕМЕСТР\ООП\лабы\OOP_3\OOP_3\obj\Debug\OOP_3.pdb
+D:\4 СЕМЕСТР\ООП\лабы\OOP_3\OOP_3\obj\Debug\OOP_3.csproj.CoreCompileInputs.cache

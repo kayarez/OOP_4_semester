@@ -1,0 +1,30 @@
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\bin\Debug\OOP_14.exe.config
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\bin\Debug\OOP_14.exe
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\bin\Debug\OOP_14.pdb
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.csprojAssemblyReference.cache
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\Views\MainWindow.g.cs
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\App.g.cs
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14_MarkupCompile.cache
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14_MarkupCompile.lref
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\Views\MainWindow.baml
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.g.resources
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.Properties.Resources.resources
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.csproj.GenerateResource.cache
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.exe
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.pdb
+D:\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.csproj.CoreCompileInputs.cache
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\bin\Debug\OOP_14.exe.config
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\bin\Debug\OOP_14.exe
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\bin\Debug\OOP_14.pdb
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.csprojAssemblyReference.cache
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\Views\MainWindow.g.cs
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\App.g.cs
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14_MarkupCompile.cache
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14_MarkupCompile.lref
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\Views\MainWindow.baml
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.g.resources
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.Properties.Resources.resources
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.csproj.GenerateResource.cache
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.csproj.CoreCompileInputs.cache
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.exe
+D:\2 КУРС\4 СЕМЕСТР\ООП\лабы\OOP_14\OOP_14\obj\Debug\OOP_14.pdb
